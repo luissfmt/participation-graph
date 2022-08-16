@@ -6,6 +6,9 @@ Projeto FullStack onde, ao usuário preencher um mini formulário enviando um va
 
 <a href="https://luis-promobit-case.surge.sh">Clique aqui</a>
 
+## 📙 Link para documentação da API
+<a href="https://documenter.getpostman.com/view/20353400/VUjQkPJX#2b524e27-3c11-4849-b731-c02c11287704">Postman</a>
+
 ## :camera: Imagem do projeto
 
 <div>
